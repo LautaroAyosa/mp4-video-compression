@@ -1,6 +1,6 @@
 # MP4 Video Compressor
 
-This script compresses **MP4 video files** using **FFmpeg** without significant quality loss. It reduces file size by using the H.265 (HEVC) codec while displaying **real-time progress**, **estimated completion time**, and **file size reduction stats**. The processing time varies based on your computer's hardware capabilities; more powerful systems will complete compression faster than slower ones. For example, on a system with an **8th Gen Intel i7 CPU** and **16GB RAM**, using a `fast` preset with `crf=28`, a **3.5GB MP4 file** took approximately **1 hour 25 minutes** to compress, reducing its size down to **201mb**..
+This script compresses **MP4 video files** using **FFmpeg** without significant quality loss. It reduces file size by using the H.265 (HEVC) codec while displaying **real-time progress**, **estimated completion time**, and **file size reduction stats**. The processing time varies based on your computer's hardware capabilities; more powerful systems will complete compression faster than slower ones. For example, on a system with an **8th Gen Intel i7 CPU** and **16GB RAM**, using a `fast` preset with `crf=28`, a **3.5GB MP4 file** took approximately **1 hour 25 minutes** to compress, reducing its size down to **201mb**.
 
 ## Table of Contents
 
