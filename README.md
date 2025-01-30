@@ -61,7 +61,7 @@ The script will process all `.mp4` files and save optimized versions.
 You can modify these settings inside `compress_videos.py`:
 
 - **Set input folder**
-  - The code initially has the input folder set to ./videos. Modify this at will to point to the folder that contains your videos
+  - The code initially has the input folder set to `./videos`. Modify this at will to point to the folder that contains your videos
   (You should also be able to use an absolute path like `"C:\Users\<YourUserName>\Videos\"`)
 - **Change quality:**
   - Lower CRF = **better quality, larger file** (Recommended: `17-28`)
